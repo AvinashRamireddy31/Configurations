@@ -1,0 +1,13 @@
+// This is visual studio code settings configuration
+{
+    "python.pythonPath": "venv/bin/python",
+    "python.formatting.provider": "black",
+    "editor.formatOnSave": true,
+    "editor.fontSize": 12,
+    "workbench.iconTheme": "ayu",
+    "code-runner.executorMap": {
+        "python": "$pythonPath -u $fullFileName",
+    },
+    "code-runner.clearPreviousOutput": true,
+    "code-runner.showExecutionMessage": false
+}
