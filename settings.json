@@ -1,3 +1,5 @@
+//To deactivate (base) in the beginning of lines in terminal use 'conda config --set auto_activate_base false'
+
 // This is visual studio code settings configuration for 'Python'
 {
     //Below one is outdated
