@@ -1,6 +1,12 @@
 // This is visual studio code settings configuration for 'Python'
 {
+    //Below one is outdated
     //Create python virtual environment using terminal command: python -m venv venv
+    
+    //Use below one
+    //1.sudo pip3 install virtualenv 
+    //2.virtualenv venv 
+    //Create python virtual environment using terminal command: virtualenv venv
     "python.pythonPath": "venv/bin/python", 
 
     "python.formatting.provider": "black",
